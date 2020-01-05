@@ -17,21 +17,21 @@ We also did ourself the pulling of the data using both an existing dataset from 
 ## Tool needed to run the project
 
 To run this project you will need the following python libraries installed:
-    1. **pandas** \\
-    2. **numpy** \\
-    3. **re** \\
-    4. **netwrokx** \\
-    5. **random**\\
-    6. **seaborn** \\
-    7. **collection** \\
-    8. **matplotlib** \\
-    9. **sklearn** \\
-    10. **community** \\
-    11. **bokeh** \\
-    12. **requests**\\
-    13. **BeautifulSoup**\\
+- **pandas** \
+- **numpy** \
+- **re** \
+- **netwrokx** \
+- **random**\
+- **seaborn** \
+- **collection** \
+- **matplotlib** \
+- **sklearn** \
+- **community** \
+- **bokeh** \
+- **requests**\
+- **BeautifulSoup**\
     
 If you want to pull the data yourself, you'll had to create yourself an account on the Genius API to have your own token for pulling data.
     
-Note: some algorithm, when rerun, will not necessarily output the same result that the one present in the notebook cause they are solving optimization problem (Louvain method).
+> **Note:**some algorithm, when rerun, will not necessarily output the same result that the one present in the notebook cause they are solving optimization problem (Louvain method).
 

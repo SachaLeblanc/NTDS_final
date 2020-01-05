@@ -3,7 +3,7 @@ The following GitHub contains our final project for the Network Tour of Data Sci
 
 ## The project: starting point
 
-    During this project, we wanted to tackle the relationships between the multiple actors of the musical industry. This means we are not oly interested in the well known interprets but also the producers and the song writers. Using graph theory, we tried our best to discover important features of this world based on a database of around 70 000 songs containing, for each song, the collaborations that lead to its existence.
+During this project, we wanted to tackle the relationships between the multiple actors of the musical industry. This means we are not oly interested in the well known interprets but also the producers and the song writers. Using graph theory, we tried our best to discover important features of this world based on a database of around 70 000 songs containing, for each song, the collaborations that lead to its existence.
     
 From this basic idea of studying working relationships between multiple actors, we thinked about the following questions and tried to answer them in the best way possible:
 
@@ -17,19 +17,19 @@ We also did ourself the pulling of the data using both an existing dataset from 
 ## Tool needed to run the project
 
 To run this project you will need the following python libraries installed:
-    1. **pandas** 
-    2. **numpy** 
-    3. **re** 
-    4. **netwrokx** 
-    5. **random**
-    6. **seaborn** 
-    7. **collection** 
-    8. **matplotlib** 
-    9. **sklearn** 
-    10. **community** 
-    11. **bokeh** 
-    12. **requests**
-    13. **BeautifulSoup**
+    1. **pandas** \\
+    2. **numpy** \\
+    3. **re** \\
+    4. **netwrokx** \\
+    5. **random**\\
+    6. **seaborn** \\
+    7. **collection** \\
+    8. **matplotlib** \\
+    9. **sklearn** \\
+    10. **community** \\
+    11. **bokeh** \\
+    12. **requests**\\
+    13. **BeautifulSoup**\\
     
 If you want to pull the data yourself, you'll had to create yourself an account on the Genius API to have your own token for pulling data.
     

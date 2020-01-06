@@ -30,8 +30,13 @@ To run this project you will need the following python libraries installed:
 - **bokeh** 
 - **requests**
 - **BeautifulSoup**
-    
-If you want to pull the data yourself, you'll had to create yourself an account on the Genius API to have your own token for pulling data.
+
+You can send us a message if you want the data we pulled to rerun the notebook.If you want to pull the data yourself, you'll had to create yourself an account on the Genius API to have your own token for pulling data.
     
 > **Note:** some algorithm, when rerun, will not necessarily output the same result that the one present in the notebook cause they are solving optimization problem (Louvain method).
 
+> **Note:** Since Bokeh are not cached in Jupyter notebooks, you'll probably had to rerun all the notebook (**approx:** 2h30) to be able to navigate through the graph. Otherwise you can find the pictures correspoding to each graph in the folder picture of this notebook. To go quicker set the sample size of the test dataset to 0.1 instead of 0.2 (the observations will not be necessarily right but at least you will see the graphs.
+
+## Authors
+
+Sacha Leblanc, Etienne Caquot, Grégoire Mayrhefer, Alexis Mermet

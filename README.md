@@ -20,7 +20,7 @@ To run this project you will need the following python libraries installed:
 - **pandas** 
 - **numpy** 
 - **re** 
-- **netwrokx** 
+- **networkx** 
 - **random**
 - **seaborn** 
 - **collection** 

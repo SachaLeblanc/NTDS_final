@@ -35,7 +35,7 @@ You can send us a message if you want the data we pulled to rerun the notebook.I
     
 > **Note:** some algorithm, when rerun, will not necessarily output the same result that the one present in the notebook cause they are solving optimization problem (Louvain method).
 
-> **Note:** Since Bokeh are not cached in Jupyter notebooks, you'll probably had to rerun all the notebook (**approx:** 1h40) to be able to navigate through the graph. Otherwise you can find the pictures correspoding to each graph in the folder picture of this notebook. To go quicker set the sample size of the test dataset to 0.1 instead of 0.2 (the observations will not be necessarily right but at least you will see the graphs.
+> **Note:** Since Bokeh is not always cached in Jupyter notebooks, you'll probably had to rerun all the notebook (**approx:** 1h40) to be able to navigate through the graph. Otherwise you can find the pictures correspoding to each graph in the folder picture of this repository. To go quicker set the sample size of the test dataset to 0.1 instead of 0.2 (the observations will not be necessarily right but at least you will see the graphs.
 
 ## Authors
 
